@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Grafjojo 👋
+
+### 🔭 I’m currently working on:
+- nothing
+
+### 🌱 I’m currently learning:
+- Java ☕
+- Python 🐍
+
+### 📫 You can reach me on:
+- Discord: grafjojo
+
+### 📊 My stats:
+  <img align="left" alt="Grafjojo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Grafjojo&show_icons=true&theme=tokyonight" />
+
 
 <!--
 **Grafjojo/Grafjojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
