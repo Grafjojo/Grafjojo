@@ -1,7 +1,7 @@
 ### Hi there, I'm Grafjojo 👋
 
 ### 🔭 I’m currently working on:
-- nothing
+- SharePosition
 
 ### 🌱 I’m currently learning:
 - Java ☕
