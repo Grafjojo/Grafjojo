@@ -5,7 +5,7 @@
 
 ### 🌱 I’m currently learning:
 - Java ☕
-- Python 🐍
+- Rust 📦
 
 ### 📫 You can reach me on:
 - Discord: grafjojo
