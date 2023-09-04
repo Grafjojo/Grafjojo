@@ -1,8 +1,5 @@
 ### Hi there, I'm Grafjojo 👋
 
-### 🔭 I’m currently working on:
-- SharePosition
-
 ### 🌱 I’m currently learning:
 - Java ☕
 - Rust 📦
