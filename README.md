@@ -1,9 +1,5 @@
 ### Hi there, I'm Grafjojo 👋
 
-### 🌱 I’m currently learning:
-- Java ☕
-- Rust 📦
-
 ### 📫 You can reach me on:
 - Discord: grafjojo
 
